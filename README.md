@@ -2,7 +2,7 @@
 > 使用Nuxtjs编写的简单静态博客，github graphql实现在线commit，vercel提供部署
 
 # 简介
-
+第一个blog
 ## 创建新项目
 按照[教程](https://blog.halberd.cn/articles/6562)，创建新项目。
 
